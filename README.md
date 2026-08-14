@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Doubra
+# 🥷 Hi, I'm Doubra
 
 ### Software Engineer • Fullstack Developer
 
