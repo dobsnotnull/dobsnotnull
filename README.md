@@ -1,4 +1,4 @@
-# Doubra — fullstack software engineer.
+Doubra — fullstack software engineer.
 
 Building clean, practical software across frontend, backend, and everything in between.
 Currently focused on backend engineering, systems, blockchain and building useful products.
