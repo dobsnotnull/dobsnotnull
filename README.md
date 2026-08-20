@@ -7,6 +7,6 @@ Currently focused on backend engineering, systems, blockchain and building usefu
 
 **Stack:** TypeScript · JavaScript · Python · React · Node.js · Express.js · Next.js · PostgreSQL · Tailwind CSS · Shadcn/UI.
 
-**Tools & Deployment:** Vercel · Render · Docker · Postman · Swagger
+**Tools & Deployment:** Vercel · Render · Docker · Postman · Swagger · Supabase
 
 [GitHub](https://github.com/dobsnotnull) · [LinkedIn](https://www.linkedin.com/in/doubra-apresai-06a7a4316/)
